@@ -119,5 +119,3 @@ Um knight só começa seu treinamento a partir dos 7 anos de idade.
 Este projeto está sob a licença MIT.
 
 ---
-
-**[Voltar ao topo](#knights-challenge)**
